@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-12-13 11:28+0000\n"
-"PO-Revision-Date: 2018-01-04 22:54+0000\n"
-"Last-Translator: Đorđe J. <Unknown>\n"
+"PO-Revision-Date: 2018-01-06 19:54+0000\n"
+"Last-Translator: gogo <trebelnik2@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-01-06 14:25+0000\n"
-"X-Generator: Launchpad (build 18521)\n"
+"X-Launchpad-Export-Date: 2018-06-26 09:28+0000\n"
+"X-Generator: Launchpad (build 18688)\n"
 
 #: ../../boot_options.rst:2
 msgid "Boot options"
@@ -38,8 +38,8 @@ msgid ""
 "The easiest option is to select ``compatibility mode`` from the USB stick "
 "(or DVD) boot menu."
 msgstr ""
-"Najjednostavnije je odabrati stavku  ``kompatibilan način rada`` iz "
-"izbornika pokretanja USB uređaja (ili DVD-a)."
+"Najjednostavnije je odabrati stavku  ``compatibility mode`` iz izbornika "
+"pokretanja USB uređaja (ili DVD-a)."
 
 #: ../../boot_options.rst:15
 msgid "Grub menu (EFI mode)"
@@ -502,7 +502,7 @@ msgid ""
 "compatible, nothing bad will happen. You will just get an error message."
 msgstr ""
 "Možete pokušati pokrenuti 64-bitni Linux Mint na vašem računalu. Ako nije "
-"kompatibilno, ništa loše se neće učiniti. Samo ćete vidjeti poruku o grešci."
+"kompatibilan, ništa loše se neće učiniti. Samo ćete vidjeti poruku o grešci."
 
 #: ../../codecs.rst:2
 msgid "Multimedia codecs"
@@ -510,14 +510,15 @@ msgstr "Multimedijski kôdeki"
 
 #: ../../codecs.rst:4
 msgid "Some multimedia content requires additional codecs to be installed."
-msgstr "Određeni multimedijski sadržaj zahtjeva instalaciju dodatnih kôdeka."
+msgstr ""
+"Određeni multimedijski sadržaj zahtijeva instalaciju dodatnih kôdeka."
 
 #: ../../codecs.rst:7
 msgid ""
 "If you were online when installing Linux Mint and you ticked the option to "
 "install these codecs, they are already installed."
 msgstr ""
-"Ako ste bili povezani s internetom tijekom instalacije Linux Minta i "
+"Ako ste bili povezani sa internetom tijekom instalacije Linux Minta i "
 "odabrali ste mogućnost instalacije tih kôdeka, oni su već instalirani."
 
 #: ../../codecs.rst:9
@@ -547,7 +548,7 @@ msgid ""
 "One of the first things to do after installing Linux Mint is to check for "
 "available hardware drivers."
 msgstr ""
-"Jedna od prvih stvari nakon instalacije Linux Mint je provjera dostupnosti "
+"Jedna od prvih stvari nakon instalacije Linux Minta je provjera dostupnosti "
 "hardverskih upravljačkih programa."
 
 #: ../../drivers.rst:6
@@ -562,7 +563,7 @@ msgid ""
 "to the Internet."
 msgstr ""
 "Ako nemate pristup internetu, Upravitelj upravljačkih programa će vas "
-"upozoriti da se ne može povezati s Internetom."
+"upozoriti da se ne može povezati sa internetom."
 
 #: ../../drivers.rst:19
 msgid ""
@@ -594,7 +595,7 @@ msgid ""
 "``Secure Boot Violation``, you can try one of the following solutions:"
 msgstr ""
 "Ako nakon instalacije Linux Minta u EFI načinu, ne možete pokrenuti sustav "
-"uslijed ``Secure Boot Violation``, možete probati jedno od slijedećih "
+"uslijed ``Secure Boot Violation``, možete probati jedno od sljedećih "
 "rješenja:"
 
 #: ../../efi.rst:15
@@ -603,14 +604,14 @@ msgstr "Ponovno pokrenite instalaciju:"
 
 #: ../../efi.rst:14
 msgid "Connect to the Internet before the installation"
-msgstr "Povežite se s internetom prije instalacije"
+msgstr "Povežite se sa internetom prije instalacije"
 
 #: ../../efi.rst:15
 msgid ""
 "**Do not** select ``Install third-party software for graphics and Wi-Fi "
 "hardware, Flash, MP3 and other media``."
 msgstr ""
-"**Nemojte** Odabrati ``Instaliraj softver treće strane za grafički i bežični "
+"**Nemojte** odabrati ``Instaliraj softver treće strane za grafički i bežični "
 "hardver, Flash, MP3 i ostale medije``."
 
 #: ../../efi.rst:17
@@ -648,7 +649,7 @@ msgstr "Za promjenu poredka pokretanja:"
 #: ../../efi.rst:29 ../../multiboot.rst:18
 msgid "Boot Linux Mint in ``live`` mode (with your USB stick or DVD)."
 msgstr ""
-"Pokrenite Linux Mint u ``live`` načinu (s vašeg USB uređaja ili DVD-a)."
+"Pokrenite Linux Mint u ``live`` načinu rada (s vašeg USB uređaja ili DVD-a)."
 
 #: ../../efi.rst:31 ../../multiboot.rst:20
 msgid "Open a terminal."
@@ -845,7 +846,7 @@ msgid ""
 "To find help in your language, use the `Local Communities "
 "<https://www.linuxmint.com/links.php>`_."
 msgstr ""
-"Za pronalazak pomoći na vašem jeziku, Koristite `Local Communities "
+"Za pronalazak pomoći na vašem jeziku, koristite `Local Communities "
 "<https://www.linuxmint.com/links.php>`_."
 
 #: ../../index.rst:2
@@ -897,7 +898,7 @@ msgid ""
 "exceptions:"
 msgstr ""
 "``Live sesija`` je slična uobičajenoj sesiji (npr. Linux Mint sesiji jednom "
-"kada je trajno instalirana na vaše računalo), ali sa sljedećim iznimakama:"
+"kada je trajno instalirana na vaše računalo), ali sa sljedećim iznimkama:"
 
 #: ../../install.rst:17
 msgid ""
@@ -950,14 +951,14 @@ msgstr "Odaberite svoj jezik."
 
 #: ../../install.rst:37
 msgid "Connect to the Internet."
-msgstr "Povežite se s internetom."
+msgstr "Povežite se sa internetom."
 
 #: ../../install.rst:43
 msgid ""
 "If you are connected to the Internet, tick the box to install the multimedia "
 "codecs."
 msgstr ""
-"Ako ste povezani s internetom, odaberite mogućnost instalacije "
+"Ako ste povezani sa internetom, odaberite mogućnost instalacije "
 "multimedijskih kôdeka."
 
 #: ../../install.rst:49
@@ -988,7 +989,7 @@ msgstr ""
 "znači potpuno šifriranje diska. U ovoj fazi instalacije vaš raspored "
 "tipkovnice još nije odabran stoga je postavljen na en_US. Ako odlučite "
 "koristiti ovu mogućnost, imajte ovo na umu kada upisujete lozinku. Zapamtite "
-"da postoje problemi s ovom mogućnosti i s određenim NVIDIA upravljačkim "
+"da postoje problemi sa ovom mogućnosti i sa određenim NVIDIA upravljačkim "
 "programima. Ako vam je novitet kako Linux koristi šifriranje osobne mape (to "
 "možete odabrati i kasnije tijekom instalacije)."
 
@@ -1004,7 +1005,7 @@ msgstr ""
 "prikazuje mogućnost instalacije Linux Minta uz postojeći operativni sustav. "
 "Ako odaberete tu mogućnost, instalacijski program automatski mijenja "
 "veličinu vašeg postojećeg operativnog sustava, napravi prostora i instalira "
-"Linux Mint pokraj. Izbornik pokretanja je podešen za odabir između dva "
+"Linux Mint usporedno. Izbornik pokretanja je podešen za odabir između dva "
 "operativna sustava svaki puta kada pokrenete računalo."
 
 #: ../../install.rst:64
@@ -1035,7 +1036,8 @@ msgstr ""
 #: ../../install.rst:74
 msgid "``ext4`` is recommended. It is the most popular Linux filesystem."
 msgstr ""
-"``ext4`` je preporučljiv. To je najpopularniji Linux datotečni sustav."
+"``ext4`` dnevnički datotečni sustav je preporučljiv. To je najpopularniji "
+"Linux datotečni sustav."
 
 #: ../../install.rst:79
 msgid ""
@@ -1164,7 +1166,7 @@ msgid ""
 msgstr ""
 "Windowsi ne otkrivaju druge operativne sustave i ne sadrže izbornik "
 "pokretanja sustava. Kada ih instalirate, prebrisuju vaš poredak pokretanja i "
-"vaše računalo se tada pokreće izravno u Windowse."
+"vaše računalo se tada pokreće izravno u Windows."
 
 #: ../../multiboot.rst:9
 msgid ""
@@ -1182,7 +1184,7 @@ msgid ""
 "Mint."
 msgstr ""
 "Stoga, ako želite dualno pokretanje ili pokretanje više operativnih sustava "
-"s Windowsima, lakše je i preporučljivo prvo instalirati Windowse, a nakon "
+"s Windowsima, lakše je i preporučljivo prvo instalirati Windows, a nakon "
 "njih Linux Mint."
 
 #: ../../multiboot.rst:14
@@ -1537,7 +1539,7 @@ msgstr ""
 
 #: ../../timeshift.rst:21
 msgid "Select when system snapshots are saved."
-msgstr "Odaberite kada se snimke sustava spremaju."
+msgstr "Odaberite kada će se snimke sustava stvarati."
 
 #: ../../timeshift.rst:27
 msgid ""
@@ -1554,8 +1556,8 @@ msgid ""
 "``Boot`` snapshots are performed in the background and do not impact the "
 "speed of the boot sequence."
 msgstr ""
-"``Pokretanje`` snimke sustava se stvaraju u pozadini i ne utječu na brzinu "
-"pokretanja sustava."
+"Snimanje sustava``Pri pokretanju`` sustava se izvodi u pozadini i ne utječu "
+"na brzinu pokretanja sustava."
 
 #: ../../timeshift.rst:32
 msgid "Click :guilabel:`Finish`."
@@ -1681,7 +1683,7 @@ msgstr ""
 
 #: ../../verify.rst:57
 msgid "Verify the authenticity of sha256sum.txt:"
-msgstr "Provjeri vjerodostojnost sha256sum.txt:"
+msgstr "Provjerite vjerodostojnost sa sha256sum.txt:"
 
 #: ../../verify.rst:62
 msgid ""

@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: linuxmint\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-12-13 11:28+0000\n"
-"PO-Revision-Date: 2017-12-13 15:41+0000\n"
+"PO-Revision-Date: 2018-01-12 18:04+0000\n"
 "Last-Translator: Tobias Bannert <tobannert@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2018-01-06 14:25+0000\n"
-"X-Generator: Launchpad (build 18521)\n"
+"X-Launchpad-Export-Date: 2018-06-26 09:28+0000\n"
+"X-Generator: Launchpad (build 18688)\n"
 
 #: ../../boot_options.rst:2
 msgid "Boot options"
@@ -266,8 +266,8 @@ msgid ""
 "Right-click the ISO file and select :menuselection:`Make Bootable USB "
 "Stick`, or launch :menuselection:`Menu --> Accessories --> USB Image Writer`."
 msgstr ""
-"Rechtsklick auf die ISO-Datei und :menuselection:`Startfähigen USB-Stick "
-"erstellen` auswählen oder :menuselection:`Menü --> Zubehör --> USB-"
+"Rechtsklick auf die ISO-Datei und :menuselection:`»Startfähigen USB-Stick "
+"erstellen«` auswählen oder :menuselection:`Menü --> Zubehör --> USB-"
 "Abbilderstellung` öffnen."
 
 #: ../../burn.rst:20
@@ -335,7 +335,7 @@ msgstr "In Linux"
 
 #: ../../burn.rst:53
 msgid "Install and use ``xfburn``."
-msgstr "Installieren und nutzen Sie ``xfburn``."
+msgstr "Bitte ``xfburn`` installieren und verwenden."
 
 #: ../../burn.rst:56
 msgid "In Windows"
@@ -1424,7 +1424,7 @@ msgid ""
 msgstr ""
 "`Ein Einsteigerhandbuch zu Festplatten und Festplattenpartitionen in Linux "
 "<http://linuxbsdos.com/2014/11/08/a-beginners-guide-to-disks-and-disk-"
-"partitions-in-linux/>` _"
+"partitions-in-linux/>`_"
 
 #: ../../partitioning.rst:10
 msgid ""
@@ -1448,7 +1448,7 @@ msgstr ""
 
 #: ../../partitioning.rst:14
 msgid "Dedicated /home partition"
-msgstr "Dedizierte /home Partition"
+msgstr "Eigene /home-Partition"
 
 #: ../../partitioning.rst:16
 msgid ""
@@ -1465,18 +1465,18 @@ msgid ""
 "your Firefox bookmarks somewhere in ``/home/john/.mozilla`` and so on..."
 msgstr ""
 "Dieses Verzeichnis enthält einen Unterordner für jedes Benutzerkonto. Sagen "
-"wir, Ihr Benutzername sei ``john``, dann ist Ihr Heimverzeichnis "
-"``/home/john``, Ihre Downloads sind in ``/home/john/Downloads``, Ihre "
-"Dokumente in ``/home/john/Dokumente``, Ihre Firefox-Lesezeichen irgendwo "
-"in``/home/john/.mozilla`` und so weiter …"
+"wir, Ihr Benutzername ist ``mustermann``, dann ist Ihr Heimverzeichnis "
+"``/home/mustermann``, Ihre Downloads sind in ``/home/john/mustermann``, Ihre "
+"Dokumente in ``/home/john/mustermann``, Ihre Firefox-Lesezeichen irgendwo in "
+"``/home/mustermann/.mozilla`` und so weiter …"
 
 #: ../../partitioning.rst:20
 msgid ""
 "By giving ``/home`` its own dedicated partition, you separate the user data "
 "from the rest of the operating system."
 msgstr ""
-"Wenn Sie ``/home`` eine eigene, dedizierte Partition zuweisen, trennen Sie "
-"die Benutzerdaten vom Rest des Betriebssystems."
+"Wenn Sie ``/home`` einer eigenen Partition zuordnen, trennen Sie die "
+"Benutzerdaten vom Rest des Betriebssystems."
 
 #: ../../partitioning.rst:22
 msgid ""
@@ -1741,8 +1741,8 @@ msgstr "Den Linux Mint-Signaturschlüssel importieren:"
 msgid ""
 "If gpg complains about the key ID, try the following commands instead:"
 msgstr ""
-"Wenn sich gpg über die Schlüssel-ID beschwert, versuchen Sie stattdessen "
-"folgende Befehle:"
+"Wenn sich GPG über die Schlüsselkennung beschwert, bitte stattdessen "
+"folgende Befehle versuchen:"
 
 #: ../../verify.rst:54
 msgid ""
