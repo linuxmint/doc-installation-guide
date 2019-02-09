@@ -1,7 +1,7 @@
 Language support
 ================
 
-Language support includes translations but also packages related to spell-checking, synonyms, hyphenation and dictionnaries which enhance your experience in software applications such as LibreOffice.
+Language support includes translations but also packages related to spell-checking, synonyms, hyphenation and dictionaries which enhance your experience in software applications such as LibreOffice.
 
 1. Launch :menuselection:`Menu --> Preferences --> Languages`.
 
