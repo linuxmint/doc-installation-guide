@@ -43,14 +43,14 @@ Import the Linux Mint signing key:
 ``````````````````````````````````
 .. code-block:: console
 
-   gpg --keyserver keyserver.ubuntu.com --recv-key "27DE B156 44C6 B3CF 3BD7  D291 300F 846B A25B AE09"
+   gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-key "27DE B156 44C6 B3CF 3BD7  D291 300F 846B A25B AE09"
 
 .. note::
     If gpg complains about the key ID, try the following commands instead:
 
     .. code-block:: console
 
-        gpg --keyserver keyserver.ubuntu.com --recv-key A25BAE09
+        gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-key A25BAE09
         gpg --list-key --with-fingerprint A25BAE09
 
     Check the output of the last command, to make sure the fingerprint is ``27DE B156 44C6 B3CF 3BD7 D291 300F 846B A25B AE09`` (with or without spaces).
