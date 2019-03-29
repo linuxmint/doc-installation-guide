@@ -16,6 +16,8 @@ If you can't find them, browse the `Heanet download mirror <https://ftp.heanet.i
 
 Download both ``sha256sum.txt`` and ``sha256sum.txt.gpg``.
 
+Do not copy their content, use "right-click->Save Link As..." to download the files themselves and do not modify them in any way.
+
 Integrity check
 ---------------
 
@@ -26,7 +28,7 @@ To check the integrity of your local ISO file, generate its SHA256 sum and compa
     sha256sum -b yourfile.iso
 
 .. hint::
-    If you are using Windows you can get the sha256sum (and gpg) command utility by installing `Cygwin <http://www.cygwin.com/>`_.
+    If you are using Windows follow the tutorial `How to verify the ISO image on Windows <https://forums.linuxmint.com/viewtopic.php?f=42&t=291093>`_.
 
 If the sums match, your ISO image was successfully downloaded. If they don't, download it again.
 
@@ -51,7 +53,7 @@ Import the Linux Mint signing key:
         gpg --keyserver keyserver.ubuntu.com --recv-key A25BAE09
         gpg --list-key --with-fingerprint A25BAE09
 
-    Check the output of the last command, to make sure the fingerprint is ``27DE B156 44C6 B3CF 3BD7 D291 300F 846B A25B AE09``.
+    Check the output of the last command, to make sure the fingerprint is ``27DE B156 44C6 B3CF 3BD7 D291 300F 846B A25B AE09`` (with or without spaces).
 
 Verify the authenticity of sha256sum.txt:
 `````````````````````````````````````````
