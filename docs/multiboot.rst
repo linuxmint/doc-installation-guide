@@ -19,7 +19,7 @@ If Windows overwrites your boot sequence:
 
 2. Open a terminal.
 
-3. To list your partitions, type ``lsblk -f``.
+3. To list your partitions, type ``lsblk -f`` and press :kbd:`Enter`.
 
 .. figure:: images/lsblkf.png
     :width: 500px
