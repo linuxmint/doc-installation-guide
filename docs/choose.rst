@@ -53,9 +53,9 @@ If you are unsure which desktop to choose start with the Cinnamon edition. Try t
 32-bit or 64-bit?
 -----------------
 
-64-bit is recommended.
+From Version 20 onward, 64-bit is only available.
 
-The 32-bit ISO images are provided for compatibility with older computers. 32-bit processors are extremely rare nowadays and most computers are able to run in 64-bit. If your computer was manufactured after 2007, you probably have a 64-bit processor.
+The 32-bit ISO images on prior versions are provided for compatibility with older computers. 32-bit processors are extremely rare nowadays and most computers are able to run in 64-bit. If your computer was manufactured after 2007, you probably have a 64-bit processor.
 
 If you have an old computer and you are unsure whether or not it can run in 64-bit, read `X86 Chronology <https://en.wikipedia.org/wiki/X86#Chronology>`_.
 
