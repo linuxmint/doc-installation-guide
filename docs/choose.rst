@@ -12,8 +12,8 @@ Linux Mint comes in 3 different flavours, each featuring a different desktop env
 
 ========  =====================================================
 Cinnamon  The most modern, innovative and full-featured desktop
-MATE      A more stable, and faster desktop
-Xfce      The most lightweight and the most stable
+MATE      A more traditional, and faster desktop
+Xfce      The most lightweight desktop
 ========  =====================================================
 
 The most popular version of Linux Mint is the Cinnamon edition. Cinnamon is primarily developed for and by Linux Mint. It is slick, beautiful, and full of new features.
@@ -25,7 +25,7 @@ The most popular version of Linux Mint is the Cinnamon edition. Cinnamon is prim
 
     Cinnamon
 
-Linux Mint is also involved in the development of MATE, a classic desktop environment which is the continuation of GNOME 2, Linux Mint's default desktop between 2006 and 2011. Although it misses a few features and its development is slower than Cinnamon's, MATE runs faster, uses less resources and is more stable than Cinnamon.
+Linux Mint is also involved in the development of MATE, a classic desktop environment which is the continuation of GNOME 2, Linux Mint's default desktop between 2006 and 2011. Although it misses a few features and its development is slower than Cinnamon's, MATE uses less resources and can run faster on older computers.
 
 
 .. figure:: images/mate.png
