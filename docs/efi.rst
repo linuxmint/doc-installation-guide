@@ -30,7 +30,7 @@ To modify the boot order:
 
 2. Open a terminal.
 
-3. Type ``sudo efibootmgr``.
+3. Type ``sudo efibootmgr`` and press :kbd:`Enter`.
 
 This command lists the available boot options and the boot order.
 
