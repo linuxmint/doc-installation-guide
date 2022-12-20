@@ -66,5 +66,3 @@ The output of the last command should tell you that the file signature is ``good
 .. note::
     GPG might warn you that the Linux Mint signature is not trusted by your computer. This is expected and perfectly normal.
 
-.. hint::
-    For more information on ISO verification, or to verify BETA, LMDE or old releases, read `How to Verify ISO images <https://linuxmint.com/verify.php>`_.
