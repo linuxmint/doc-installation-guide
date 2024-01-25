@@ -7,7 +7,7 @@ Disks and partitions under Linux
 If you are not familiar with the Linux naming scheme for devices and partitions, or the concept of filesystems and mount points, read:
 
 * `A beginner’s guide to disks and disk partitions in Linux <http://linuxbsdos.com/2014/11/08/a-beginners-guide-to-disks-and-disk-partitions-in-linux/>`_
-* `Device Names in Linux <https://www.debian.org/releases/wheezy/amd64/apcs04.html.en>`_
+* `Device Names in Linux <https://www.debian.org/releases/bookworm/amd64/apcs04.en.html>`_
 * `Understanding the Linux File System <http://etutorials.org/Linux+systems/red+hat+linux+9+professional+secrets/Part+II+Exploring+Red+Hat+Linux/Chapter+7+Red+Hat+Linux+Basics/Understanding+the+Linux+File+System/>`_
 
 Dedicated /home partition
