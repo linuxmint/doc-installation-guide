@@ -10,7 +10,7 @@ One of the first things to do after installing Linux Mint is to check for availa
     :align: center
 
 .. hint::
-    If you are offline, the Driver Manager will complain that it cannot connect to the Internet.
+    If you are offline, the Driver Manager will inform you that it cannot connect to the Internet.
 
     .. figure:: images/mintdrivers-2.png
         :width: 500px
