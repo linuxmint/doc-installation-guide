@@ -46,14 +46,20 @@ Import the Linux Mint signing key:
    gpg --keyserver hkp://keys.openpgp.org:80 --recv-key 27DEB15644C6B3CF3BD7D291300F846BA25BAE09
 
 .. note::
-    If gpg complains about the key ID, try the following commands instead:
+    Check that the key was properly imported:
 
     .. code-block:: console
 
-        gpg --keyserver hkp://keyserver.ubuntu.com:80 --recv-key A25BAE09
         gpg --list-key --with-fingerprint A25BAE09
 
-    Check the output of the last command, to make sure the fingerprint is ``27DE B156 44C6 B3CF 3BD7 D291 300F 846B A25B AE09`` (with or without spaces).
+    The output should contain `27DE B156 44C6 B3CF 3BD7  D291 300F 846B A25B AE09` and look like this:
+
+    .. code-block:: console
+
+        pub   rsa4096 2016-06-07 [SC]
+              27DE B156 44C6 B3CF 3BD7  D291 300F 846B A25B AE09
+        uid           [ unknown] Linux Mint ISO Signing Key <root@linuxmint.com>
+
 
 Verify the authenticity of sha256sum.txt:
 `````````````````````````````````````````
@@ -61,7 +67,7 @@ Verify the authenticity of sha256sum.txt:
 
     gpg --verify sha256sum.txt.gpg sha256sum.txt
 
-The output of the last command should tell you that the file signature is ``good`` and that it was signed with the ``A25BAE09`` key.
+The output of the last command should tell you that the file signature is ``good`` and that it was signed with the ``27DEB15644C6B3CF3BD7D291300F846BA25BAE09`` key.
 
 .. note::
     GPG might warn you that the Linux Mint signature is not trusted by your computer. This is expected and perfectly normal.
