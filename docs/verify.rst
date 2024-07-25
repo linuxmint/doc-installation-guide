@@ -43,7 +43,7 @@ Import the Linux Mint signing key:
 ``````````````````````````````````
 .. code-block:: console
 
-   gpg --keyserver hkp://keys.openpgp.org:80 --recv-key "27DE B156 44C6 B3CF 3BD7  D291 300F 846B A25B AE09"
+   gpg --keyserver hkp://keys.openpgp.org:80 --recv-key 27DEB15644C6B3CF3BD7D291300F846BA25BAE09
 
 .. note::
     If gpg complains about the key ID, try the following commands instead:
