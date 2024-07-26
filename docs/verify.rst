@@ -16,10 +16,7 @@ If you are already running Linux Mint you can use the built-in tool to perform a
 
     mint-iso-verify yourfile.iso
 
-.. figure:: images/verify.png
-    :width: 500px
-    :align: center
-
+.. image:: images/verify.png
 
 Download the SHA256 sums provided by Linux Mint
 -----------------------------------------------
