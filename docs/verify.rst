@@ -7,6 +7,20 @@ The integrity check confirms that your ISO image was properly downloaded and tha
 
 The authenticity check confirms that the ISO image you downloaded was signed by Linux Mint, and thus that it isn't a modified or malicious copy made by somebody else.
 
+Verify using Linux Mint
+-----------------------
+
+If you are already running Linux Mint you can use the built-in tool to perform all the verification checks. Right-click the ISO image and select `Verify`, or use the `mint-iso-verify` command with your ISO file:
+
+.. code-block:: console
+
+    mint-iso-verify yourfile.iso
+
+.. figure:: images/verify.png
+    :width: 500px
+    :align: center
+
+
 Download the SHA256 sums provided by Linux Mint
 -----------------------------------------------
 
