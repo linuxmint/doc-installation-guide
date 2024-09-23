@@ -23,7 +23,7 @@ Download the SHA256 sums provided by Linux Mint
 
 All `download mirrors <https://www.linuxmint.com/mirrors.php>`_ provide the ISO images, a ``sha256sum.txt`` file and a ``sha256sum.txt.gpg`` file. You should be able to find these files in the same place you downloaded the ISO image from.
 
-If you can't find them, browse the `Heanet download mirror <https://ftp.heanet.ie/mirrors/linuxmint.com/stable/>`_ and click the version of the Linux Mint release you downloaded.
+If you can't find them, browse the `Kernel.org download mirror <https://mirrors.kernel.org/linuxmint/stable/>`_ and click the version of the Linux Mint release you downloaded.
 
 Download both ``sha256sum.txt`` and ``sha256sum.txt.gpg``.
 
