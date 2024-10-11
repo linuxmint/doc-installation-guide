@@ -38,6 +38,12 @@ To check the integrity of your local ISO file, generate its SHA256 sum and compa
 
     sha256sum -b yourfile.iso
 
+If you are running macOS, generate its SHA256 sum and compare it with the sum present in ``sha256sum.txt`` using the ``shasum`` command.
+
+.. code-block:: console
+
+    shasum -a 256 yourfile.iso
+
 .. hint::
     If you are using Windows follow the tutorial `How to verify the ISO image on Windows <https://forums.linuxmint.com/viewtopic.php?f=42&t=291093>`_.
 
