@@ -22,7 +22,7 @@ Select your USB device and click :guilabel:`Write`.
 In Windows, Mac OS, or other Linux distributions
 ````````````````````````````````````````````````
 
-Download `Etcher <https://www.balena.io/etcher/>`_, install it and run it.
+Download `Etcher <https://etcher.balena.io/>`_, install it and run it.
 
 .. figure:: images/etcher.png
     :width: 500px
