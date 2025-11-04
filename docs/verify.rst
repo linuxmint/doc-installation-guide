@@ -44,8 +44,11 @@ If you are running macOS, generate its SHA256 sum and compare it with the sum pr
 
     shasum -a 256 yourfile.iso
 
-.. hint::
-    If you are using Windows follow the tutorial `How to verify the ISO image on Windows <https://forums.linuxmint.com/viewtopic.php?f=42&t=291093>`_.
+If you are running Windows, generate its SHA256 sum and compare it with the sum present in ``sha256sum.txt`` using the ``Get-FileHash`` cmdlet.
+
+.. code-block:: console
+
+    Get-FileHash yourfile.iso
 
 If the sums match, your ISO image was successfully downloaded. If they don't, download it again.
 
