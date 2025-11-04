@@ -15,7 +15,7 @@ Dedicated /home partition
 
 In Linux, the ``/home`` directory is used to store user data and preferences.
 
-This directory contains one subdirectoy for each user account. Say your username is ``john``, your home directory is ``/home/john``, your downloads are in ``/home/john/Downloads``, your documents in ``/home/john/Documents``, your Firefox bookmarks somewhere in ``/home/john/.mozilla`` and so on...
+This directory contains one subdirectory for each user account. Say your username is ``john``, your home directory is ``/home/john``, your downloads are in ``/home/john/Downloads``, your documents in ``/home/john/Documents``, your Firefox bookmarks somewhere in ``/home/john/.mozilla`` and so on...
 
 By giving ``/home`` its own dedicated partition, you separate the user data from the rest of the operating system.
 
