@@ -22,6 +22,9 @@ Select your USB device and click :guilabel:`Write`.
 In Windows, Mac OS, or other Linux distributions
 ````````````````````````````````````````````````
 
+.. warning::
+	Etcher will reformat your USB to the needed format, which will lose any existing files on it. Making a bootable USB is safest with an empty flashdrive
+
 Download `Etcher <https://etcher.balena.io/>`_, install it and run it.
 
 .. figure:: images/etcher.png
