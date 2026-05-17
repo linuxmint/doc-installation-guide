@@ -30,9 +30,9 @@ Download `Etcher <https://etcher.balena.io/>`_, install it and run it.
 
     Using Etcher
 
-Click :guilabel:`Select image` and select your ISO file.
+Click :guilabel:`Flash from file` and select your ISO file.
 
-Click :guilabel:`Select drive` and select your USB stick.
+Click :guilabel:`Select target` and select your USB stick.
 
 Click :guilabel:`Flash!`.
 
