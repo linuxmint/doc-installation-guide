@@ -63,4 +63,6 @@ If you have an old computer and you are unsure whether or not it can run in 64-b
     You can try to boot Linux Mint 64-bit on your computer. If it isn't compatible, nothing bad will happen. You will just get an error message.
 
 .. note::
-    If you cannot boot or install Linux Mint because your hardware is too recent and is not properly detected see the `Edge ISO Images <https://linuxmint-user-guide.readthedocs.io/en/latest/edge.html>`_ chapter in the Linux Mint User Guide for an alternative ISO.
+    If you cannot boot or install Linux Mint on recent hardware using the regular ISO, check whether a
+    `Hardware Enablement (HWE) ISO <https://www.linuxmint.com/hwe.php>`_ is available.
+    HWE ISOs include a newer kernel to improve hardware compatibility.
