@@ -60,7 +60,7 @@ Import the Linux Mint signing key:
 ``````````````````````````````````
 .. code-block:: console
 
-   gpg --keyserver hkp://keys.openpgp.org:80 --recv-key 27DEB15644C6B3CF3BD7D291300F846BA25BAE09
+    gpg --keyserver hkps://keyserver.ubuntu.com:443 --recv-key 27DEB15644C6B3CF3BD7D291300F846BA25BAE09
 
 .. note::
     Check that the key was properly imported:
